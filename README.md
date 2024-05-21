@@ -1,2 +1,3 @@
-python setup.py build
-pip install -e .
+`python setup.py build`
+
+`pip install -e .`
