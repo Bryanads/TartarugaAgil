@@ -1,0 +1,96 @@
+{
+    "usuarios": [
+        {
+            "email": "bryan",
+            "senha": "bryan",
+            "lider": true,
+            "equipes": [],
+            "nome": "Bryan Amorim",
+            "celular": "21981271234",
+            "idade": "22",
+            "papeis_scrum": {
+                "scrum_master": true,
+                "po": true,
+                "dev": true,
+                "nunca_participei": true
+            },
+            "especialidades": {
+                "backend": true,
+                "frontend": true,
+                "fullstack": true,
+                "ux_ui": true,
+                "outro": ""
+            },
+            "outra_especializacao": "AAAAAAAAAAAAAAAAAAA"
+        },
+        {
+            "email": "joao",
+            "senha": "joao",
+            "lider": false,
+            "equipes": [],
+            "nome": "Jo\u00e3o Gois",
+            "celular": "219999999",
+            "idade": "20",
+            "papeis_scrum": {
+                "scrum_master": true,
+                "po": false,
+                "dev": false,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": true,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": "correr"
+        },
+        {
+            "email": "marceu",
+            "senha": "marceu",
+            "lider": false,
+            "equipes": [],
+            "nome": "Marceu Filho",
+            "celular": "219812332432",
+            "idade": "28",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": false,
+                "dev": false,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        },
+        {
+            "email": "marceu ",
+            "senha": "marceu",
+            "lider": false,
+            "equipes": [],
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": false,
+                "dev": false,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "usuarios": [
+        {
+            "email": "exemplo@dominio.com",
+            "senha": "senha123",
+            "lider": false,
+            "equipes":[],
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "foto": "",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": false,
+                "dev": false,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        }
+    ]
+}
