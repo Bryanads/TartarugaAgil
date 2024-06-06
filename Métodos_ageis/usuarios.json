@@ -1,0 +1,244 @@
+{
+    "usuarios": [
+        {
+            "email": "bryan",
+            "senha": "bryan",
+            "lider": true,
+            "projetos": {
+                "Projeto1": {
+                    "equipes": {
+                        "Equipe 1": {
+                            "marceu": "scrum_master",
+                            "joao": "po",
+                            "caio": "dev",
+                            "cezar": "dev"
+                        },
+                        "Equipe 2": {
+                            "marceu2": "scrum_master",
+                            "joao2": "po",
+                            "caio2": "dev",
+                            "cezar2": "dev"
+                        }
+                    }
+                }
+            },
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": false,
+                "dev": false,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        },
+        {
+            "email": "marceu",
+            "senha": "marceu",
+            "lider": false,
+            "projetos": {
+                "Projeto1": "Equipe 1"
+            },
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "papeis_scrum": {
+                "scrum_master": true,
+                "po": false,
+                "dev": false,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        },
+        {
+            "email": "joao",
+            "senha": "joao",
+            "lider": false,
+            "projetos": {
+                "Projeto1": "Equipe 1"
+            },
+            "nome": "Joao",
+            "celular": "21981271234",
+            "idade": "20",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": true,
+                "dev": false,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": true,
+                "frontend": true,
+                "fullstack": true,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        },
+        {
+            "email": "caio",
+            "senha": "caio",
+            "lider": false,
+            "projetos": {
+                "Projeto1": "Equipe 1"
+            },
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": false,
+                "dev": true,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        },
+        {
+            "email": "cezar",
+            "senha": "cezar",
+            "lider": false,
+            "projetos": {
+                "Projeto1": "Equipe 1"
+            },
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": false,
+                "dev": true,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        },
+        {
+            "email": "marceu2",
+            "senha": "marceu2",
+            "lider": false,
+            "projetos": {
+                "Projeto1": "Equipe 2"
+            },
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "papeis_scrum": {
+                "scrum_master": true,
+                "po": false,
+                "dev": false,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        },
+        {
+            "email": "joao2",
+            "senha": "joao2",
+            "lider": false,
+            "projetos": {
+                "Projeto1": "Equipe 2"
+            },
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": true,
+                "dev": false,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        },
+        {
+            "email": "caio2",
+            "senha": "caio2",
+            "lider": false,
+            "projetos": {
+                "Projeto1": "Equipe 2"
+            },
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": false,
+                "dev": true,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        },
+        {
+            "email": "cezar2",
+            "senha": "cezar2",
+            "lider": false,
+            "projetos": {
+                "Projeto1": "Equipe 2"
+            },
+            "nome": "",
+            "celular": "",
+            "idade": "",
+            "papeis_scrum": {
+                "scrum_master": false,
+                "po": false,
+                "dev": true,
+                "nunca_participei": false
+            },
+            "especialidades": {
+                "backend": false,
+                "frontend": false,
+                "fullstack": false,
+                "ux_ui": false,
+                "outro": ""
+            },
+            "outra_especializacao": ""
+        }
+    ]
+}
