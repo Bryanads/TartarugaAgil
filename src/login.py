@@ -1,8 +1,12 @@
 import PySimpleGUI as sg
-from utils import database
+from src.utils import database
 from src import cadastro
 from src.colaboradores import colaboradores
 from src.lideres import lideres
+
+
+
+
 
 def verificar_usuario(email, senha):
     usuarios = database.carregar_usuarios()

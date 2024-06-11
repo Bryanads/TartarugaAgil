@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
-from utils import database
-from src import login
+from src.utils import database
+import src.login as login
 
 def tela_cadastro(email):
     layout = [

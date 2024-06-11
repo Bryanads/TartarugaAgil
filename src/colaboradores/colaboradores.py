@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-from utils import database
+from src.utils import database
 from src.colaboradores import infos_pessoais
 from src import habilidades
 

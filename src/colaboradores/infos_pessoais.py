@@ -1,6 +1,6 @@
 from src.colaboradores import colaboradores
 import PySimpleGUI as sg
-from utils import database
+from src.utils import database
 
 def tela_colaborador(email):
     usuarios, colaborador = colaboradores.carregar_colaborador(email)

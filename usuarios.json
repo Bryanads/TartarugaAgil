@@ -67,7 +67,7 @@
             "idade": "22",
             "papeis_scrum": {
                 "scrum_master": true,
-                "po": false,
+                "po": true,
                 "dev": false,
                 "nunca_participei": false
             },

@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-from utils import database
+from src.utils import database
 
 usuarios_db = database.carregar_usuarios()
 
